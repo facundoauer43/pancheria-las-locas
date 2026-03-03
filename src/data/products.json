@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pancho con Guarnición",
+    "precio": 1500,
+    "img": "/pancho1.png",
+    "desc": "Salchicha, Pan, Queso, Ketchup, Mayonesa y más...",
+    "condimentos": [
+      "Salchicha",
+      "Pan",
+      "Queso",
+      "Ketchup",
+      "Mayonesa",
+      "Lluvia de Papas"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Pancho Loco Cheddar",
+    "precio": 2200,
+    "img": "/pancho2.png",
+    "desc": "Cheddar fundido, Bacon crocante, Cebolla caramelizada...",
+    "condimentos": [
+      "Cheddar",
+      "Bacon",
+      "Cebolla Caramelizada",
+      "Ketchup"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Pancho Explosivo",
+    "precio": 2000,
+    "img": "/pancho3.png",
+    "desc": "Guacamole, Pico de Gallo, Jalapeños y Mayo picante...",
+    "condimentos": [
+      "Guacamole",
+      "Pico de Gallo",
+      "Mayonesa Picante"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Pancho Alemán",
+    "precio": 1800,
+    "img": "/pancho1.png",
+    "desc": "Salchicha alemana, chucrut, mostaza y pepinillos...",
+    "condimentos": [
+      "Salchicha",
+      "Pan",
+      "Chucrut",
+      "Mostaza",
+      "Pepinillos"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Pancho Criollo",
+    "precio": 1700,
+    "img": "/pancho2.png",
+    "desc": "Salchicha, salsa criolla, provolone y lluvia de papas...",
+    "condimentos": [
+      "Salchicha",
+      "Pan",
+      "Provolone",
+      "Salsa Criolla",
+      "Lluvia de Papas"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Pancho Veggie",
+    "precio": 1600,
+    "img": "/pancho3.png",
+    "desc": "Salchicha plant-based, guacamole, rúcula y tomate...",
+    "condimentos": [
+      "Salchicha Veggie",
+      "Pan Integral",
+      "Guacamole",
+      "Rúcula",
+      "Tomate"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Pancho Triple Queso",
+    "precio": 2300,
+    "img": "/pancho1.png",
+    "desc": "Cheddar, provolone, roquefort y cebolla crispy...",
+    "condimentos": [
+      "Salchicha",
+      "Pan",
+      "Cheddar",
+      "Queso",
+      "Roquefort",
+      "Cebolla Caramelizada"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Pancho BBQ",
+    "precio": 2100,
+    "img": "/pancho2.png",
+    "desc": "Salsa barbacoa, bacon crocante, cheddar y aros de cebolla...",
+    "condimentos": [
+      "Salchicha",
+      "Pan",
+      "Salsa BBQ",
+      "Bacon",
+      "Cheddar",
+      "Aros de Cebolla"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Panchito Clásico",
+    "precio": 1000,
+    "img": "/pancho3.png",
+    "desc": "El de siempre: Salchicha, pan, aderezos clásicos y lluvia de papas.",
+    "condimentos": [
+      "Salchicha",
+      "Pan",
+      "Mayonesa",
+      "Ketchup",
+      "Mostaza",
+      "Lluvia de Papas"
+    ]
+  }
+]
